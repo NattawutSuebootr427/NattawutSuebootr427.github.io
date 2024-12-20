@@ -1,0 +1,13 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    border: 1px solid red;
+    text-align: left;
+
+}
+.magin{
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+
+}
